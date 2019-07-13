@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="aboutAlc">About ALC</string>
+    <string name="myProfile">My Profile</string>
+    <string name="pName">EDU NONSO</string>
+    <string name="pTrack">Track:</string>
+    <string name="pTrackAnswer">Android</string>
+    <string name="pCountry">Country:</string>
+    <string name="pEmail">Email:</string>
+    <string name="pEmailAnswer">nonsoedu14@gmail.com</string>
+    <string name="Ppnumber">Phone Number:</string>
+    <string name="pPNumberAnswer">+256783426021</string>
+    <string name="pSlacKUN">Slack Username:</string>
+    <string name="pCountryAnswer">Uganda</string>
+    <string name="pSlackuseranswre">edu nonso</string>
+</resources>
